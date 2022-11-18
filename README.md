@@ -2,12 +2,12 @@
 
 https://kubernetes.io/docs/concepts/workloads/pods/
 
-* /pod/simple-pod.yaml
-* /job/job.yaml
+* pod/pod-nginx-1.yaml
+* job/job-busybox-command-1.yaml
 
 https://kind.sigs.k8s.io/docs/user/quick-start/#multinode-clusters
 
-* /kind/multi-nodes.yaml
+* kind/kind-multi-nodes-1.yaml
 
 https://dev.to/musolemasu/deploy-a-mysql-database-server-in-kubernetes-static-dpc
 
